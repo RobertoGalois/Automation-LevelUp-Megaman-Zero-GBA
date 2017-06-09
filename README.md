@@ -1,2 +1,2 @@
-# Automation-LevelUp-Megaman-Zero-GBA
-Autoit script that automates the levelUp of Zero. Launch the game, go in front of an infinite respawning enemy and launch the script. Could work with spaceBar pressed down with 1000% CPUGba
+# Auto-scroll in a page with dynamic generating content
+Autoit script that automates the scrolling down in pages like facebook for example. 
